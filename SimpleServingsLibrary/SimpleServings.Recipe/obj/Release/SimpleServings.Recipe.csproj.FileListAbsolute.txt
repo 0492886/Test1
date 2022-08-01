@@ -1,0 +1,5 @@
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Recipe\obj\Release\SimpleServings.Recipe.csprojResolveAssemblyReference.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Recipe\obj\Release\SimpleServings.Recipe.csprojAssemblyReference.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Recipe\obj\Release\SimpleServings.Recipe.csproj.CoreCompileInputs.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\obj\Release\SimpleServings.Recipe.csproj.AssemblyReference.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\obj\Release\SimpleServings.Recipe.csproj.CoreCompileInputs.cache

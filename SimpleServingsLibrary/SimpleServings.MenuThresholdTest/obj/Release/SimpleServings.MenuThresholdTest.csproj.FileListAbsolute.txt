@@ -1,0 +1,17 @@
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.MenuThresholdTest.exe.config
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.MenuThresholdTest.exe
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.MenuThresholdTest.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.Menu.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.MenuThreshold.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.RecipeSupplement.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.Shared.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.MenuThreshold.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.Menu.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.RecipeSupplement.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\bin\Release\SimpleServings.Shared.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\obj\Release\SimpleServings.MenuThresholdTest.csprojResolveAssemblyReference.cache
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\obj\Release\SimpleServings.MenuThresholdTest.exe
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThresholdTest\obj\Release\SimpleServings.MenuThresholdTest.pdb
